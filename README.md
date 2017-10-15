@@ -31,11 +31,11 @@ Common markup patterns I use for developing websites.
 
 Now you're set up to use this in a new project.
 
-# Getting Started
+## Getting Started
 
-## The HTML
+### The HTML
 * Open up index.html with your favorite text editor and hack away. It's that simple.
-* To preview changes at http://localhost:8000 - open up terminal.app and type
+* To preview changes at http://localhost:8000 - open up terminal.app and then type
 ```
 python -m SimpleHTTPServer
 ```
